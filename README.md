@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michal-baran&label=Profile%20views&color=0e75b6&style=flat" alt="michal-baran" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring**
-
 - 📫 How to reach me **michal.baran.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
